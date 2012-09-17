@@ -6,6 +6,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:mingyans/hw0-mingyans.git</connection>
 		<developerConnection>scm:git:git@github.com:mingyans/hw0-mingyans.git</developerConnection>
+		<url>https://github.com/mingyans/hw0-mingyans.git</url>
 	</scm>
 	<repositories>
 		<repository>
